@@ -1,16 +1,13 @@
-## Hi there 👋
+## DecodeYou — Understand Relationship Patterns, Clearly
 
-<!--
-**cherryyan1987/cherryyan1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DecodeYou helps people understand emotional patterns in relationships,
+decode confusing behaviors, and respond with clarity instead of anxiety.
 
-Here are some ideas to get you started:
+→ https://decodeyou.app
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What this project focuses on
+- Relationship psychology & emotional patterns
+- Self-awareness instead of manipulation or scripts
+- Calm, grounded communication
+
+This repository is used to document ideas and notes related to the DecodeYou project.
